@@ -1,4 +1,4 @@
-Função de número aleatório
+//Função de número aleatório
 
 programa {
   inclua biblioteca Util --> u 
