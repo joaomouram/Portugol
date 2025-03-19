@@ -1,4 +1,6 @@
 //Função de número aleatório
+//O programa perguntará a você para advinhar o número que ele está pensando.
+//Enquanto você não acertar o número, ele continuará executando o programa.
 
 programa {
   inclua biblioteca Util --> u 
